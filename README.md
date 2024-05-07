@@ -1,0 +1,2 @@
+# vbcode
+smxApp contactos
